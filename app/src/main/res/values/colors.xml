@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="main_color">#41A6F3</color>
+    <color name="normal_control_color">#CCCCCC</color>
+    <color name="activated_control_color">#41A6F3</color>
+
+    <color name="error">#FF0000</color>
+    <color name="empty_view">#77DDDDDD</color>
+    <color name="pb_progress_bg">#0099CB</color>
+    <color name="pb_default_bg">#CCCCCC</color>
+    <color name="option_menu_normal">#41A6F3</color>
+    <color name="option_menu_pressed">#4199f8</color>
+    <color name="option_menu_overflow_normal">#2F3332</color>
+    <color name="option_menu_overflow_pressed">#2A2A2A</color>
+    <color name="btn_login_normal">#EEEEEE</color>
+    <color name="btn_login_pressed">#0099CB</color>
+    <color name="btn_normal_gray">#FFFFFF</color>
+    <color name="btn_pressed_gray">#DDDDDD</color>
+    <color name="normal_button_normal">#FFFFFF</color>
+    <color name="normal_button_pressed">#0099CB</color>
+    <color name="normal_layout_normal">#DEDEDE</color>
+    <color name="normal_layout_pressed">#CDCDCD</color>
+    <color name="normal_layout_normal2">#F8F8F8</color>
+    <color name="normal_layout_pressed2">#CDCDCD</color>
+    <color name="normal_layout_normal3">#FFFFFF</color>
+    <color name="normal_layout_pressed3">#ECECEC</color>
+    <color name="popup_view_button_confirm_pressed">#2A6792</color>
+    <color name="popup_view_button_confirm_normal">#0099CB</color>
+    <color name="popup_view_button_cancel_pressed">#DDDDDD</color>
+    <color name="popup_view_button_cancel_normal">#FFFFFF</color>
+    <color name="setting_disable_color">#BBBBBB</color>
+    <color name="setting_enable_color">#000000</color>
+    <color name="chat_window_color">#f3f1da</color>
+
+    <!-- 透明度 -->
+    <color name="alpha00">#00000000</color>
+    <color name="alpha05">#0D000000</color>
+    <color name="alpha10">#1A000000</color>
+    <color name="alpha15">#26000000</color>
+    <color name="alpha20">#33000000</color>
+    <color name="alpha25">#40000000</color>
+    <color name="alpha30">#4D000000</color>
+    <color name="alpha35">#59000000</color>
+    <color name="alpha40">#66000000</color>
+    <color name="alpha45">#73000000</color>
+    <color name="alpha50">#80000000</color>
+    <color name="alpha55">#8C000000</color>
+    <color name="alpha60">#99000000</color>
+    <color name="alpha65">#A6000000</color>
+    <color name="alpha70">#B3000000</color>
+    <color name="alpha75">#BF000000</color>
+    <color name="alpha80">#CC000000</color>
+    <color name="alpha85">#D9000000</color>
+    <color name="alpha90">#E6000000</color>
+    <color name="alpha95">#F2000000</color>
+    <color name="alpha100">#FF000000</color>
+
+    <!-- 常用颜色值 -->
+    <color name="white40">#40FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F7F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    <color name="transparent">#00000000</color>
+    <color name="main_text_gray">#a1a1a1</color>
+
+    <color name="menu_item_normal">#c9ffffff</color>
+    <color name="menu_item_pressed">#d5dadada</color>
+    <color name="menu_text">#f12162ff</color>
+
+    <color name="text_color">#565656</color>
+    <color name="text_color_2">#0099CB</color>
+    <color name="text_hint_color">#CCCCCC</color>
+    <color name="text_button_color">#FFFFFF</color>
+    <color name="text_tip_color">#898989</color>
+    <color name="text_link_color">#0099CB</color>
+
+    <color name="image_default_bg_color">#EEEEEE</color>
+
+    <color name="toolbar_back_pressed_color">#4199f8</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+
+    <!--电话相关-->
+    <color name="main_green">#28c566</color>
+</resources>
