@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+
+        <activity
+            android:name=".draw1_1.BasicDrawActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

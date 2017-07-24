@@ -7,7 +7,7 @@
     tools:context="cn.xp.advanced.MainActivity">
 
     <TextView
-        android:id="@+id/tv_1.1"
+        android:id="@+id/tv_1_1"
         style="@style/ItemText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
